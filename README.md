@@ -83,6 +83,7 @@ TRANFORMERS
 
 ## REcSYs
 * https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f
+* Recommendations as Treatments: Debiasing Learning and Evaluation - http://proceedings.mlr.press/v48/schnabel16.pdf
 
 ## XIA
 * https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools
@@ -97,6 +98,8 @@ TRANFORMERS
 
 ## Applied ml in the industry (papers)
 * https://github.com/eugeneyan/applied-ml
+* Churn:
+  * Preventing churn like a bandit
 
 
 ## Book
