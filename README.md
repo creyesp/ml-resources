@@ -51,6 +51,7 @@
 - https://machinelearningmastery.com/what-are-word-embeddings/
 - https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 - Word2vec from Scratch - https://jaketae.github.io/study/word2vec/
+- The Illustrated Word2vec - https://jalammar.github.io/illustrated-word2vec/
 
 ### Attention
 - A Guide to the Encoder-Decoder Model and the Attention Mechanism - https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb
