@@ -52,6 +52,8 @@
 - https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 - Word2vec from Scratch - https://jaketae.github.io/study/word2vec/
 - The Illustrated Word2vec - https://jalammar.github.io/illustrated-word2vec/
+- Papers:
+  - Efficient Estimation of Word Representations in Vector Space (word2vec) - https://arxiv.org/abs/1301.3781
 
 ### Attention
 - A Guide to the Encoder-Decoder Model and the Attention Mechanism - https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb
@@ -131,6 +133,18 @@
 - https://deepnote.notion.site/NLP-in-Notebooks-Competition-6616e415f0a44e5c95982e7bc1cb89dd
 - Paper:
   - Exploiting Food Embeddings for Ingredient Substitution - https://www.scitepress.org/Papers/2021/102020/102020.pdf
+
+### item2vec
+- **Moving Beyond Meta for Better Product Embeddings (MET)** - https://medium.com/1mgofficial/moving-beyond-meta-better-product-embeddings-for-better-recommendations-fa6dd1578777
+- **Item2Vec: Neural Item Embeddings to enhance recommendations** - https://tech.olx.com/item2vec-neural-item-embeddings-to-enhance-recommendations-1fd948a6f293
+- Papers:
+  - Product recommendation at scale (prod2vec yahoo) - https://dl.acm.org/doi/pdf/10.1145/2783258.2788627
+  - item2vec (2016) - https://arxiv.org/pdf/1603.04259.pdf
+  - Meta-Prod2Vec - Product Embeddings Using Side-Information for Recommendation (2016)- https://arxiv.org/pdf/1607.07326.pdf
+  - Billion-scale Commodity Embedding for E-commerce Recommendation in Alibaba (2018): https://arxiv.org/pdf/1803.02349.pdf
+  - Deep neural network marketplace recommenders in online experiments by Avito - https://arxiv.org/pdf/1809.02130.pdf
+  - BERTSCORE: EVALUATING TEXT GENERATION WITH BERT (2019) - https://arxiv.org/pdf/1904.09675.pdf
+  
 
 # XIA
 * **Explainability and Auditability in ML: Definitions, Techniques, and Tools** - https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools
