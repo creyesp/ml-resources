@@ -85,8 +85,8 @@
 - BigBird Research Ep. 1 - Sparse Attention Basics - https://www.youtube.com/watch?v=YvA9nqPmGWg
 
 ## REcSYs
-* https://medium.com/snipfeed/how-to-implement-deep-generative-models-for-recommender-systems-29110be8971f
-* Recommendations as Treatments: Debiasing Learning and Evaluation - http://proceedings.mlr.press/v48/schnabel16.pdf
+- See more [here](https://github.com/creyesp/Awesome-recsys)
+
 
 ## Graph 
 * Knowledge Graphs in Natural Language Processing @ ACL 2021 - https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2021-6cac04f39761
