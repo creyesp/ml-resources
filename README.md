@@ -28,6 +28,10 @@
 * https://towardsdatascience.com/how-to-measure-data-quality-815076010b37
 * https://huyenchip.com/machine-learning-systems-design/toc.html
 * Machine Learning Production Pipeline - https://docs.google.com/presentation/d/1mvmJ1PnCe7lWGmSoL80CjLe7N2QpEwkU8x7l62BawME/edit#slide=id.g7eb0adee5f_0_854
+* Stack for Machine Learning
+  *  The Rapid Evolution of the Canonical Stack for Machine Learning - https://opendatascience.com/the-rapid-evolution-of-the-canonical-stack-for-machine-learning/
+  *  Navigating the MLOps tooling landscape (Part 1: The Lifecycle) - https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/
+  *  Introducing TWIML’s New ML and AI Solutions Guide - https://twimlai.com/solutions/introducing-twiml-ml-ai-solutions-guide/
 
 ## Serving
 * https://medium.com/@apoor/serving-ml-models-with-grpc-2116cf8374dd
@@ -48,10 +52,11 @@
 
 ### Embeddings
 
-- https://machinelearningmastery.com/what-are-word-embeddings/
-- https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
+- What Are Word Embeddings for Text? - https://machinelearningmastery.com/what-are-word-embeddings/
+- An implementation guide to Word2Vec using NumPy and Google Sheets - https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 - Word2vec from Scratch - https://jaketae.github.io/study/word2vec/
-- The Illustrated Word2vec - https://jalammar.github.io/illustrated-word2vec/
+- **The Illustrated Word2vec** - https://jalammar.github.io/illustrated-word2vec/
+- **Embeddings with Word2Vec in non-NLP Contexts (Details with papers)** - https://towardsdatascience.com/embeddings-with-word2vec-in-non-nlp-contexts-details-e879b093d34d
 - Papers:
   - Efficient Estimation of Word Representations in Vector Space (word2vec) - https://arxiv.org/abs/1301.3781
 
