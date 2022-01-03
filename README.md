@@ -58,7 +58,8 @@
 - **The Illustrated Word2vec** - https://jalammar.github.io/illustrated-word2vec/
 - **Embeddings with Word2Vec in non-NLP Contexts (Details with papers)** - https://towardsdatascience.com/embeddings-with-word2vec-in-non-nlp-contexts-details-e879b093d34d
 - Papers:
-  - Efficient Estimation of Word Representations in Vector Space (word2vec) - https://arxiv.org/abs/1301.3781
+  - A Neural Probabilistic Language Model (2003) - https://proceedings.neurips.cc/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf
+  - Efficient Estimation of Word Representations in Vector Space (2013 word2vec) - https://arxiv.org/abs/1301.3781
 
 ### Attention
 - A Guide to the Encoder-Decoder Model and the Attention Mechanism - https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb
