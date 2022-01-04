@@ -55,6 +55,7 @@
 - What Are Word Embeddings for Text? - https://machinelearningmastery.com/what-are-word-embeddings/
 - An implementation guide to Word2Vec using NumPy and Google Sheets - https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
 - Word2vec from Scratch - https://jaketae.github.io/study/word2vec/
+- **Word2Vec Tutorial - The Skip-Gram Model (2016)** - http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 - **The Illustrated Word2vec** - https://jalammar.github.io/illustrated-word2vec/
 - **Embeddings with Word2Vec in non-NLP Contexts (Details with papers)** - https://towardsdatascience.com/embeddings-with-word2vec-in-non-nlp-contexts-details-e879b093d34d
 - Papers:
@@ -80,8 +81,10 @@
 - Illustrated: Self-Attention - https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
 -  https://towardsdatascience.com/galerkin-transformer-a-one-shot-experiment-at-neurips-2021-96efcbaefd3e
 - Dive into Deep Learning: Coding Session#5 Attention Mechanism II - https://www.youtube.com/watch?v=rRQcS1O58xk
+- The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
 - Papers:
   - **Attention Is All You Need**- https://arxiv.org/pdf/1706.03762.pdf
+  - Improving Language Models by Retrieving from Trillions of Tokens (DeepMind’s RETRO (Retrieval-Enhanced TRansfOrmer) Dec 2021) - https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens
 
 #### BERT
 - Explaining BERT Simply Using Sketches - https://mlwhiz.medium.com/explaining-bert-simply-using-sketches-ba30f6f0c8cb
