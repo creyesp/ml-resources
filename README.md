@@ -90,6 +90,7 @@
 - Explaining BERT Simply Using Sketches - https://mlwhiz.medium.com/explaining-bert-simply-using-sketches-ba30f6f0c8cb
 - How to Train a BERT Model From Scratch - https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
 - LawBERT: Towards a Legal Domain-Specific BERT? - https://towardsdatascience.com/lawbert-towards-a-legal-domain-specific-bert-716886522b49
+- Distillation of BERT-Like Models: The Theory - https://towardsdatascience.com/distillation-of-bert-like-models-the-theory-32e19a02641f
 #### BigBird
 - BigBird Research Ep. 1 - Sparse Attention Basics - https://www.youtube.com/watch?v=YvA9nqPmGWg
 
@@ -99,6 +100,7 @@
 
 ## Graph 
 * Knowledge Graphs in Natural Language Processing @ ACL 2021 - https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2021-6cac04f39761
+* Graph ML in 2022: Where Are We Now? - https://towardsdatascience.com/graph-ml-in-2022-where-are-we-now-f7f8242599e0
 
 ## Time Series
 * https://towardsdatascience.com/temporal-convolutional-networks-the-next-revolution-for-time-series-8990af826567
