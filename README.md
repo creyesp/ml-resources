@@ -82,6 +82,7 @@
 -  https://towardsdatascience.com/galerkin-transformer-a-one-shot-experiment-at-neurips-2021-96efcbaefd3e
 - Dive into Deep Learning: Coding Session#5 Attention Mechanism II - https://www.youtube.com/watch?v=rRQcS1O58xk
 - The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
+- Transformers from Scratch (Brandon Rohrer 2021) - https://e2eml.school/transformers
 - Papers:
   - **Attention Is All You Need**- https://arxiv.org/pdf/1706.03762.pdf
   - Improving Language Models by Retrieving from Trillions of Tokens (DeepMind’s RETRO (Retrieval-Enhanced TRansfOrmer) Dec 2021) - https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens
