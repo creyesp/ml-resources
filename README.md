@@ -62,6 +62,9 @@
   - A Neural Probabilistic Language Model (2003) - https://proceedings.neurips.cc/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf
   - Efficient Estimation of Word Representations in Vector Space (2013 word2vec) - https://arxiv.org/abs/1301.3781
 
+# Tokenizer
+- SentencePiece Tokenizer Demystified (`2021`)- https://towardsdatascience.com/sentencepiece-tokenizer-demystified-d0a3aac19b15
+
 ### Attention
 - A Guide to the Encoder-Decoder Model and the Attention Mechanism - https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb
 - **Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)** - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
