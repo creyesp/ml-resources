@@ -127,7 +127,11 @@
 * https://towardsdatascience.com/interpreting-semantic-text-similarity-from-transformer-models-ba1b08e6566c
 
 ## Constrative learning
-* https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607
+Contrastive learning is a self-supervised, task-independent deep learning technique that allows a model to learn about data, even without labels.
+* **Understanding Contrastive Learning** - https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607
+* Contrastive Representation Learning - https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
+* Papers:
+  - Big Self-Supervised Models are Strong Semi-Supervised Learners / SimCRLv2 (2020)- https://arxiv.org/pdf/2006.10029.pdf
 
 
 ## Applied ml in the industry (papers)
