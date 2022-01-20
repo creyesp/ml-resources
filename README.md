@@ -33,6 +33,9 @@
   *  Navigating the MLOps tooling landscape (Part 1: The Lifecycle) - https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/
   *  Introducing TWIML’s New ML and AI Solutions Guide - https://twimlai.com/solutions/introducing-twiml-ml-ai-solutions-guide/
 
+## Feature store
+* Featureform - https://www.featureform.com/embeddinghub
+
 ## Serving
 * https://medium.com/@apoor/serving-ml-models-with-grpc-2116cf8374dd
 
@@ -61,6 +64,7 @@
 - Papers:
   - A Neural Probabilistic Language Model (2003) - https://proceedings.neurips.cc/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf
   - Efficient Estimation of Word Representations in Vector Space (2013 word2vec) - https://arxiv.org/abs/1301.3781
+  - Swivel: Improving Embeddings by Noticing What's Missing (2016 Google) - https://arxiv.org/pdf/1602.02215.pdf
 
 # Tokenizer
 - SentencePiece Tokenizer Demystified (`2021`)- https://towardsdatascience.com/sentencepiece-tokenizer-demystified-d0a3aac19b15
@@ -75,6 +79,12 @@
 
 
 ### Tansformer
+BERT user self--supervice loss call next sentence prediction (NSP)
+ALBERT Snetence Order prediciction (SOP) wich clain that model is force to learn mode fine-grain datils
+ELECTRA (GAN)
+DistilBert
+TinyBert
+Logformer (hybrid local en global attention)
 
 - **Illustrated transformer**- https://jalammar.github.io/illustrated-transformer/
 - Transformers Explained Visually 
@@ -86,9 +96,13 @@
 - Dive into Deep Learning: Coding Session#5 Attention Mechanism II - https://www.youtube.com/watch?v=rRQcS1O58xk
 - The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
 - Transformers from Scratch (Brandon Rohrer 2021) - https://e2eml.school/transformers
+- Code to train Language model (hugging face)- https://github.com/huggingface/transformers/tree/master/examples/pytorch/language-modeling
+- BERT-ology at 100 kmph - https://thenlp.space/blog/bert-ology-at-100-kmph
+- Customize transformer models to your domain - https://thenlp.space/blog/customize-transformer-models-to-your-domain
 - Papers:
   - **Attention Is All You Need**- https://arxiv.org/pdf/1706.03762.pdf
   - Improving Language Models by Retrieving from Trillions of Tokens (DeepMind’s RETRO (Retrieval-Enhanced TRansfOrmer) Dec 2021) - https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens
+  - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks (2020 ALLEN)- https://arxiv.org/pdf/2004.10964.pdf
 
 #### BERT
 - Explaining BERT Simply Using Sketches - https://mlwhiz.medium.com/explaining-bert-simply-using-sketches-ba30f6f0c8cb
@@ -129,10 +143,14 @@
 * https://bytes.swiggy.com/find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639  (Michel)
 * https://towardsdatascience.com/interpreting-semantic-text-similarity-from-transformer-models-ba1b08e6566c
 
-## Constrative learning
+## Constrastive learning (superviced / self-supervice)
 Contrastive learning is a self-supervised, task-independent deep learning technique that allows a model to learn about data, even without labels.
 * **Understanding Contrastive Learning** - https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607
 * Contrastive Representation Learning - https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
+* **Introduction to Dense Text Representations** - https://www.youtube.com/watch?v=t4Gf4LruVZ4&list=PL7kaex1gKh6BDLHEwEeO45wZRDm5QlRil 
+  - Global and local structute of vector space
+  - Losses: Multiple Negative Ranking Loss (Training with in-batch negative InfoNCE or NTXentloss) / Batch Hard Triplet Loss / Triplet Loss / Contrative loss / CosineSimilarity loss
+- The InfoNCE loss in self-supervised learning (deeplearning) - https://crossminds.ai/video/the-infonce-loss-in-self-supervised-learning-606fef0bf43a7f2f827c1583/
 * Papers:
   - Big Self-Supervised Models are Strong Semi-Supervised Learners / SimCRLv2 (2020)- https://arxiv.org/pdf/2006.10029.pdf
 
