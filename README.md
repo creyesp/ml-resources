@@ -153,6 +153,7 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
 - The InfoNCE loss in self-supervised learning (deeplearning) - https://crossminds.ai/video/the-infonce-loss-in-self-supervised-learning-606fef0bf43a7f2f827c1583/
 * Papers:
   - Big Self-Supervised Models are Strong Semi-Supervised Learners / SimCRLv2 (2020)- https://arxiv.org/pdf/2006.10029.pdf
+  - Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language (2022 Facebook)- https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language
 
 
 ## Applied ml in the industry (papers)
