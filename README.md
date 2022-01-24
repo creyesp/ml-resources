@@ -52,6 +52,7 @@
 # Algorithms / Technique
 
 ## NLP 
+* Bulk labeling - https://github.com/RasaHQ/rasalit
 
 ### Embeddings
 
