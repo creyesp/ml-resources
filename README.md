@@ -103,7 +103,8 @@ Logformer (hybrid local en global attention)
 - Papers:
   - **Attention Is All You Need**- https://arxiv.org/pdf/1706.03762.pdf
   - Improving Language Models by Retrieving from Trillions of Tokens (DeepMind’s RETRO (Retrieval-Enhanced TRansfOrmer) Dec 2021) - https://deepmind.com/research/publications/2021/improving-language-models-by-retrieving-from-trillions-of-tokens
-  - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks (2020 ALLEN)- https://arxiv.org/pdf/2004.10964.pdf
+  - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks (2020 ALLEN) - https://arxiv.org/pdf/2004.10964.pdf
+  - Natural Language Processing (NLP) for Semantic Search Online Book (pinecone.io) - https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
 
 #### BERT
 - Explaining BERT Simply Using Sketches - https://mlwhiz.medium.com/explaining-bert-simply-using-sketches-ba30f6f0c8cb
