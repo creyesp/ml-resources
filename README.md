@@ -54,7 +54,7 @@
 ## NLP 
 * Bulk labeling - https://github.com/RasaHQ/rasalit
 
-### Embeddings
+## Embeddings
 
 - What Are Word Embeddings for Text? - https://machinelearningmastery.com/what-are-word-embeddings/
 - An implementation guide to Word2Vec using NumPy and Google Sheets - https://towardsdatascience.com/an-implementation-guide-to-word2vec-using-numpy-and-google-sheets-13445eebd281
@@ -62,15 +62,26 @@
 - **Word2Vec Tutorial - The Skip-Gram Model (2016)** - http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/
 - **The Illustrated Word2vec** - https://jalammar.github.io/illustrated-word2vec/
 - **Embeddings with Word2Vec in non-NLP Contexts (Details with papers)** - https://towardsdatascience.com/embeddings-with-word2vec-in-non-nlp-contexts-details-e879b093d34d
+- [InferSent](https://medium.com/analytics-vidhya/sentence-embeddings-facebooks-infersent-6ac4a9fc2001)
+
+
+### Word endedding
 - Papers:
   - A Neural Probabilistic Language Model (2003) - https://proceedings.neurips.cc/paper/2000/file/728f206c2a01bf572b5940d7d9a8fa4c-Paper.pdf
   - Efficient Estimation of Word Representations in Vector Space (2013 word2vec) - https://arxiv.org/abs/1301.3781
   - Swivel: Improving Embeddings by Noticing What's Missing (2016 Google) - https://arxiv.org/pdf/1602.02215.pdf
 
-# Tokenizer
+### Sentence Embedding
+* [**Universal Sentence Encoder for English** (Google 2018)](https://aclanthology.org/D18-2029.pdf)
+* [Supervised Learning of Universal Sentence Representations from Natural Language Inference Data - InferSent (Facebook 2018)](https://arxiv.org/pdf/1705.02364v5.pdf)
+* [SentEval: An Evaluation Toolkit for Universal Sentence Representations (2018 Facebook)](https://arxiv.org/pdf/1803.05449.pdf)
+* [**Multilingual Universal Sentence Encoder for Semantic Retrieval** (Google 2019)](https://arxiv.org/pdf/1907.04307.pdf)
+* [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** (2019)](https://arxiv.org/pdf/1908.10084.pdf)
+
+## Tokenizer
 - SentencePiece Tokenizer Demystified (`2021`)- https://towardsdatascience.com/sentencepiece-tokenizer-demystified-d0a3aac19b15
 
-### Attention
+## Attention
 - A Guide to the Encoder-Decoder Model and the Attention Mechanism - https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb
 - **Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)** - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - Attn: Illustrated Attention - https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
@@ -79,7 +90,7 @@
   - Effective Approaches to Attention-based Neural Machine Translation - https://arxiv.org/pdf/1409.0473.pdf
 
 
-### Tansformer
+## Tansformer
 BERT user self--supervice loss call next sentence prediction (NSP)
 ALBERT Snetence Order prediciction (SOP) wich clain that model is force to learn mode fine-grain datils
 ELECTRA (GAN)
@@ -106,12 +117,12 @@ Logformer (hybrid local en global attention)
   - Don’t Stop Pretraining: Adapt Language Models to Domains and Tasks (2020 ALLEN) - https://arxiv.org/pdf/2004.10964.pdf
   - Natural Language Processing (NLP) for Semantic Search Online Book (pinecone.io) - https://www.pinecone.io/learn/dense-vector-embeddings-nlp/
 
-#### BERT
+### BERT
 - Explaining BERT Simply Using Sketches - https://mlwhiz.medium.com/explaining-bert-simply-using-sketches-ba30f6f0c8cb
 - How to Train a BERT Model From Scratch - https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
 - LawBERT: Towards a Legal Domain-Specific BERT? - https://towardsdatascience.com/lawbert-towards-a-legal-domain-specific-bert-716886522b49
 - Distillation of BERT-Like Models: The Theory - https://towardsdatascience.com/distillation-of-bert-like-models-the-theory-32e19a02641f
-#### BigBird
+### BigBird
 - BigBird Research Ep. 1 - Sparse Attention Basics - https://www.youtube.com/watch?v=YvA9nqPmGWg
 
 ## REcSYs
@@ -165,6 +176,9 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
 ### Producto categorization
 * Deep Learning: Product Categorization and Shelving - https://medium.com/walmartglobaltech/deep-learning-product-categorization-and-shelving-630571e81e96
 * Semantic Vector Search: Tales from the Trenches - https://medium.com/grensesnittet/semantic-vector-search-tales-from-the-trenches-fa8b61ea3680
+
+### Attribute extractyion in a e-commerce
+* [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047)
 
 ### Foodbert
 - http://pic2recipe.csail.mit.edu/
