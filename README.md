@@ -178,7 +178,7 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
 * Semantic Vector Search: Tales from the Trenches - https://medium.com/grensesnittet/semantic-vector-search-tales-from-the-trenches-fa8b61ea3680
 
 ### Attribute extractyion in a e-commerce
-* [Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047)
+* [**Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach** (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047)
 
 ### Foodbert
 - http://pic2recipe.csail.mit.edu/
