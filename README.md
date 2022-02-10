@@ -156,7 +156,7 @@ Logformer (hybrid local en global attention)
 * https://bytes.swiggy.com/find-my-food-semantic-embeddings-for-food-search-using-siamese-networks-abb55be0b639  (Michel)
 * https://towardsdatascience.com/interpreting-semantic-text-similarity-from-transformer-models-ba1b08e6566c
 
-## Constrastive learning (superviced / self-supervice)
+## Constrastive learning (supervised / self-supervised)
 Contrastive learning is a self-supervised, task-independent deep learning technique that allows a model to learn about data, even without labels.
 * **Understanding Contrastive Learning** - https://towardsdatascience.com/understanding-contrastive-learning-d5b19fd96607
 * Contrastive Representation Learning - https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
