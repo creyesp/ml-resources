@@ -94,8 +94,9 @@
 BERT user self--supervice loss call next sentence prediction (NSP)
 ALBERT Snetence Order prediciction (SOP) wich clain that model is force to learn mode fine-grain datils
 ELECTRA (GAN)
-DistilBert
-TinyBert
+[DistilBert (2019)](https://arxiv.org/pdf/1910.01108.pdf)
+[TinyBert (2020)](https://arxiv.org/pdf/1909.10351.pdf)
+[MobileBert](https://arxiv.org/pdf/2004.02984.pdf)
 Logformer (hybrid local en global attention)
 
 - **Illustrated transformer**- https://jalammar.github.io/illustrated-transformer/
@@ -122,6 +123,11 @@ Logformer (hybrid local en global attention)
 - How to Train a BERT Model From Scratch - https://towardsdatascience.com/how-to-train-a-bert-model-from-scratch-72cfce554fc6
 - LawBERT: Towards a Legal Domain-Specific BERT? - https://towardsdatascience.com/lawbert-towards-a-legal-domain-specific-bert-716886522b49
 - Distillation of BERT-Like Models: The Theory - https://towardsdatascience.com/distillation-of-bert-like-models-the-theory-32e19a02641f
+
+### Distillation
+- [**Distillation of BERT-Like Models: The Theory**](https://towardsdatascience.com/distillation-of-bert-like-models-the-theory-32e19a02641f)
+- [**Distillation of BERT-like models: the code**](https://towardsdatascience.com/distillation-of-bert-like-models-the-code-73c31e8c2b0a)
+- 
 ### BigBird
 - BigBird Research Ep. 1 - Sparse Attention Basics - https://www.youtube.com/watch?v=YvA9nqPmGWg
 
