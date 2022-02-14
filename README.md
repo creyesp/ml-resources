@@ -188,6 +188,21 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
 ### Attribute extractyion in a e-commerce
 * [**Learning to Extract Attribute Value from Product via Question Answering: A Multi-task Approach** (2020 Google)](https://dl.acm.org/doi/pdf/10.1145/3394486.3403047)
 
+### Product matching
+Papers:
+* [Product Matching in eCommerce using deep learning (medium)](https://medium.com/walmartglobaltech/product-matching-in-ecommerce-4f19b6aebaca)
+* [Neural Network based Extreme Classification and Similarity Models for Product Matching (Ebay)](https://aclanthology.org/N18-3002.pdf)
+* [**BERT-based similarity learning for product matching**](https://aclanthology.org/2020.ecomnlp-1.7.pdf)
+* [Deep Entity Matching with Pre-Trained Language Models (Megagon Labs)](https://arxiv.org/pdf/2004.00584.pdf)
+* [Salient Phrase Aware Dense Retrieval: Can a Dense Retriever Imitate a Sparse One?](https://arxiv.org/pdf/2110.06918.pdf)
+
+### Entity matching
+* DeepMatch https://github.com/anhaidgroup/deepmatcher
+* DeepER http://www.vldb.org/pvldb/vol11/p1454-ebraheem.pdf
+* EMTA https://github.com/brunnurs/entity-matching-transformer
+* Auto-EM https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Auto-EM.pdf
+* Ditto https://arxiv.org/pdf/2004.00584.pdf
+
 ### Foodbert
 - http://pic2recipe.csail.mit.edu/
 - https://github.com/ChantalMP/Exploiting-Food-Embeddings-for-Ingredient-Substitution
