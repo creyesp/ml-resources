@@ -77,6 +77,7 @@
 * [SentEval: An Evaluation Toolkit for Universal Sentence Representations (2018 Facebook)](https://arxiv.org/pdf/1803.05449.pdf)
 * [**Multilingual Universal Sentence Encoder for Semantic Retrieval** (Google 2019)](https://arxiv.org/pdf/1907.04307.pdf)
 * [**Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks** (2019)](https://arxiv.org/pdf/1908.10084.pdf)
+* [**Learning Thematic Similarity Metric Using Triplet Networks** / wikipedia sentences similarity](https://aclanthology.org/P18-2009.pdf)
 
 ## Tokenizer
 - SentencePiece Tokenizer Demystified (`2021`)- https://towardsdatascience.com/sentencepiece-tokenizer-demystified-d0a3aac19b15
@@ -99,6 +100,7 @@ ELECTRA (GAN)
 [MobileBert](https://arxiv.org/pdf/2004.02984.pdf)
 Logformer (hybrid local en global attention)
 
+- Curated list of transformer (Dair)- https://github.com/dair-ai/Transformers-Recipe
 - **Illustrated transformer**- https://jalammar.github.io/illustrated-transformer/
 - Transformers Explained Visually 
   - (Part 1): Overview of Functionality - https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452
