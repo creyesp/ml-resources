@@ -133,6 +133,10 @@ Logformer (hybrid local en global attention)
 ### BigBird
 - BigBird Research Ep. 1 - Sparse Attention Basics - https://www.youtube.com/watch?v=YvA9nqPmGWg
 
+### Courses
+* http://web.stanford.edu/class/cs224n/
+* https://www.coursera.org/specializations/natural-language-processing
+
 ## REcSYs
 - See more [here](https://github.com/creyesp/Awesome-recsys)
 
