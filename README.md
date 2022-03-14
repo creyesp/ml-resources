@@ -42,6 +42,10 @@
 ## Drift
 * https://medium.com/@elena.samuylova/my-data-drifted-whats-next-how-to-handle-ml-model-drift-in-production-78719ef007b1
 
+## Monitoring and Alerting
+* [A comprensive guide od ML monitoring in production](https://christophergs.com/machine%20learning/2020/03/14/how-to-monitor-machine-learning-models/)
+* [Monitoring with Boxkite and grafana](https://grafana.com/blog/2021/08/02/how-basisai-uses-grafana-and-prometheus-to-monitor-model-drift-in-machine-learning-workloads/)
+
 ## GCP 
 - Vertex
   - Model Serving at Scale with Vertex AI : custom container deployment with pre and post processing - https://medium.com/@piyushpandey282/model-serving-at-scale-with-vertex-ai-custom-container-deployment-with-pre-and-post-processing-12ac62f4ce76
