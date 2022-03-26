@@ -140,6 +140,7 @@ Logformer (hybrid local en global attention)
 ### Courses
 * http://web.stanford.edu/class/cs224n/
 * https://www.coursera.org/specializations/natural-language-processing
+* https://github.com/dair-ai/ML-YouTube-Courses/blob/main/README.md
 
 ## REcSYs
 - See more [here](https://github.com/creyesp/Awesome-recsys)
