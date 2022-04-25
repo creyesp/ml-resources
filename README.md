@@ -51,6 +51,7 @@
   - Model Serving at Scale with Vertex AI : custom container deployment with pre and post processing - https://medium.com/@piyushpandey282/model-serving-at-scale-with-vertex-ai-custom-container-deployment-with-pre-and-post-processing-12ac62f4ce76
 
 - ML Checklist — Best Practices for a Successful Model Deployment - https://medium.com/analytics-vidhya/ml-checklist-best-practices-for-a-successful-model-deployment-2cff5495efed
+- Google MLOps template - https://github.com/GoogleCloudPlatform/mlops-with-vertex-ai
 
 
 # Algorithms / Technique
