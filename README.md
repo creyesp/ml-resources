@@ -148,9 +148,9 @@ Logformer (hybrid local en global attention)
 
 ## Reinforment learning
 ### Next best action
-- NBA - https://blog.griddynamics.com/building-a-next-best-action-model-using-reinforcement-learning/
+- **NBA** - https://blog.griddynamics.com/building-a-next-best-action-model-using-reinforcement-learning/
   - https://github.com/ikatsov/tensor-house
-- Next-Best-Action Recommendation https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
+- **Next-Best-Action Recommendation** https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
 
 ## Graph 
 * Knowledge Graphs in Natural Language Processing @ ACL 2021 - https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2021-6cac04f39761
