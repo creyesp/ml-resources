@@ -146,6 +146,10 @@ Logformer (hybrid local en global attention)
 ## REcSYs
 - See more [here](https://github.com/creyesp/Awesome-recsys)
 
+## Reinforment learning
+### Next best action
+- NBA - https://blog.griddynamics.com/building-a-next-best-action-model-using-reinforcement-learning/
+- Next-Best-Action Recommendation https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
 
 ## Graph 
 * Knowledge Graphs in Natural Language Processing @ ACL 2021 - https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2021-6cac04f39761
