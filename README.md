@@ -191,6 +191,7 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
 * Papers:
   - Big Self-Supervised Models are Strong Semi-Supervised Learners / SimCRLv2 (2020)- https://arxiv.org/pdf/2006.10029.pdf
   - Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language (2022 Facebook)- https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language
+* https://github.com/voidism/DiffCSE 
 
 ## Others
 * [Rethinking Pre-training and Self-training](https://arxiv.org/pdf/2006.06882.pdf)
