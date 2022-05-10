@@ -172,7 +172,8 @@ Logformer (hybrid local en global attention)
 * https://medium.com/swlh/ranknet-factorised-ranknet-lambdarank-explained-implementation-via-tensorflow-2-0-part-i-1e71d8923132
 * https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330?gi=b000dfdf0130
 
-
+## Search 
+* https://medium.com/@shahrukhx01/keyword-search-using-dense-vectors-filter-recommendation-using-deep-learning-and-haystack-5b242de176d1
 ## ONESHOT 
 * https://medium.com/@crimy/one-shot-learning-siamese-networks-and-triplet-loss-with-keras-2885ed022352
 * https://medium.datadriveninvestor.com/nlp-in-healthcare-entity-linking-48845a762ed7
