@@ -10,6 +10,8 @@
 
 
 # MLOPS
+* https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
+* https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 * https://medium.com/eliiza-ai/getting-started-with-mlops-d10301cef521
 	* Improvement 1: Reproducibility
 	* Improvement 2: Modularity
@@ -171,6 +173,7 @@ Logformer (hybrid local en global attention)
 ## Learn to rank
 * https://medium.com/swlh/ranknet-factorised-ranknet-lambdarank-explained-implementation-via-tensorflow-2-0-part-i-1e71d8923132
 * https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330?gi=b000dfdf0130
+* https://bendersky.github.io/res/TF-Ranking-ICTIR-2019.pdf
 
 ## Search 
 * https://medium.com/@shahrukhx01/keyword-search-using-dense-vectors-filter-recommendation-using-deep-learning-and-haystack-5b242de176d1
