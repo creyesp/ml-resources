@@ -268,3 +268,4 @@ Papers:
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
 * https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553
+* Rules of Machine Learnng - https://developers.google.com/machine-learning/guides/rules-of-ml
