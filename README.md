@@ -118,6 +118,7 @@ Logformer (hybrid local en global attention)
 - Dive into Deep Learning: Coding Session#5 Attention Mechanism II - https://www.youtube.com/watch?v=rRQcS1O58xk
 - The Illustrated Retrieval Transformer - https://jalammar.github.io/illustrated-retrieval-transformer/
 - Transformers from Scratch (Brandon Rohrer 2021) - https://e2eml.school/transformers
+- Transformer Recipe - https://github.com/dair-ai/Transformers-Recipe
 - Code to train Language model (hugging face)- https://github.com/huggingface/transformers/tree/master/examples/pytorch/language-modeling
 - BERT-ology at 100 kmph - https://thenlp.space/blog/bert-ology-at-100-kmph
 - Customize transformer models to your domain - https://thenlp.space/blog/customize-transformer-models-to-your-domain
