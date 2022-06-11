@@ -1,5 +1,12 @@
 # ml-resources
 
+# 
+* Agile in DS - https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/
+* Data Storyteling - https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify
+* ML interview book - https://github.com/chiphuyen/ml-interviews-book
+
+
+
 # Python 
 * https://towardsdatascience.com/best-practices-for-setting-up-a-python-environment-d4af439846a
 * https://towardsdatascience.com/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79
@@ -154,6 +161,9 @@ Logformer (hybrid local en global attention)
 - **NBA** - https://blog.griddynamics.com/building-a-next-best-action-model-using-reinforcement-learning/
   - https://github.com/ikatsov/tensor-house
 - **Next-Best-Action Recommendation** https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
+- Open Multi-bandit pipeline - https://github.com/st-tech/zr-obp
+- Bandits - https://eugeneyan.com/writing/bandits/
+
 
 ## Graph 
 * Knowledge Graphs in Natural Language Processing @ ACL 2021 - https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2021-6cac04f39761
@@ -251,6 +261,14 @@ Papers:
 * The right way to compute your Shapley Values - https://towardsdatascience.com/the-right-way-to-compute-your-shapley-values-cfea30509254
 * **A Brief Overview of Methods to Explain AI (XAI)** - https://towardsdatascience.com/a-brief-overview-of-methods-to-explain-ai-xai-fe0d2a7b05d6
 
+# Frameworks
+## Tensorflow 
+* https://www.tensorflow.org/guide/keras/preprocessing_layers
+* https://www.tensorflow.org/api_docs/python/tf/keras/layers/StringLookup#adapt
+* https://towardsdatascience.com/tensorflow-template-for-deep-learning-beginners-3b976d0ee084
+
+## Pytorch 
+* Declarative Deep Learning - https://medium.com/pytorch/ludwig-on-pytorch-1241776417fc
 
 # Education
 
