@@ -4,8 +4,8 @@
 * Agile in DS - https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/
 * Data Storyteling - https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify
 * ML interview book - https://github.com/chiphuyen/ml-interviews-book
-
-
+* Problem Framing - https://developers.google.com/machine-learning/problem-framing
+* Rules of ML - https://developers.google.com/machine-learning/guides/rules-of-ml
 
 # Python 
 * https://towardsdatascience.com/best-practices-for-setting-up-a-python-environment-d4af439846a
