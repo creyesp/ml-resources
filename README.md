@@ -161,9 +161,10 @@ Logformer (hybrid local en global attention)
 - **NBA** - https://blog.griddynamics.com/building-a-next-best-action-model-using-reinforcement-learning/
   - https://github.com/ikatsov/tensor-house
 - **Next-Best-Action Recommendation** https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
-- Open Multi-bandit pipeline - https://github.com/st-tech/zr-obp
 - Bandits - https://eugeneyan.com/writing/bandits/
-
+### Frameworks
+* ReAgent (Facebook) - https://github.com/facebookresearch/ReAgent
+* Open Multi-bandit pipeline - https://github.com/st-tech/zr-obp
 
 ## Graph 
 * Knowledge Graphs in Natural Language Processing @ ACL 2021 - https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2021-6cac04f39761
