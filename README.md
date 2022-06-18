@@ -15,6 +15,11 @@
 * https://venthur.de/2021-06-26-python-packaging.html
 * https://medium.com/@jessicachenfan/taming-your-python-dictionaries-with-dataclasses-marshmallow-and-desert-388dbffedaec
 
+# ML Pattern design
+* https://eugeneyan.com/writing/design-patterns/
+* https://github.com/msaroufim/ml-design-patterns
+* https://github.com/GoogleCloudPlatform/ml-design-patterns
+
 
 # MLOPS
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
@@ -284,6 +289,7 @@ Papers:
 ### Course
 - University of Amsterdam Master - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
 - Dive into Deep Learning - http://d2l.ai/
+- https://github.com/full-stack-deep-learning
 
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
