@@ -16,10 +16,10 @@
 * https://medium.com/@jessicachenfan/taming-your-python-dictionaries-with-dataclasses-marshmallow-and-desert-388dbffedaec
 
 # ML Pattern design
-* https://eugeneyan.com/writing/design-patterns/
-* https://github.com/msaroufim/ml-design-patterns
-* https://github.com/GoogleCloudPlatform/ml-design-patterns
-
+* Design patterns (a software point of view)- https://eugeneyan.com/writing/design-patterns/
+* ML design patterns - https://github.com/msaroufim/ml-design-patterns
+* ML design patterns (exercide of book) https://github.com/GoogleCloudPlatform/ml-design-patterns
+* Rules of Machine Learnng (Google) - https://developers.google.com/machine-learning/guides/rules-of-ml
 
 # MLOPS
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
@@ -294,4 +294,4 @@ Papers:
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
 * https://medium.datadriveninvestor.com/why-machine-learning-engineers-are-replacing-data-scientists-769d81735553
-* Rules of Machine Learnng - https://developers.google.com/machine-learning/guides/rules-of-ml
+* https://datatalks.club/books.html
