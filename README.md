@@ -22,6 +22,7 @@
 * Rules of Machine Learnng (Google) - https://developers.google.com/machine-learning/guides/rules-of-ml
 
 # MLOPS
+* Reproducible deep learning course - https://www.sscardapane.it/teaching/reproducibledl/
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 * https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
 * https://medium.com/eliiza-ai/getting-started-with-mlops-d10301cef521
