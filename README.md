@@ -170,6 +170,7 @@ Logformer (hybrid local en global attention)
 - **Next-Best-Action Recommendation** https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
 - Bandits - https://eugeneyan.com/writing/bandits/
 - Contextual bandits for ads recommendations - https://bytes.swiggy.com/contextual-bandits-for-ads-recommendations-ec210775fcf
+- HuggingFace Deep Reinforcement Learning course - https://github.com/huggingface/deep-rl-class
 ### Frameworks
 * ReAgent (Facebook) - https://github.com/facebookresearch/ReAgent
 * Open Multi-bandit pipeline - https://github.com/st-tech/zr-obp
