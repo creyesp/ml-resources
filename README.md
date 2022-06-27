@@ -3,6 +3,7 @@
 # 
 * Agile in DS - https://eugeneyan.com/writing/data-science-and-agile-what-works-and-what-doesnt/
 * Data Storyteling - https://shopifyengineering.myshopify.com/blogs/engineering/data-storytelling-shopify
+* Data scientist storytelling technical presentation - https://www.susanshu.com/data-scientist-storytelling-technical-presentation
 * ML interview book - https://github.com/chiphuyen/ml-interviews-book
 * Problem Framing - https://developers.google.com/machine-learning/problem-framing
 * Rules of ML - https://developers.google.com/machine-learning/guides/rules-of-ml
@@ -168,6 +169,7 @@ Logformer (hybrid local en global attention)
   - https://github.com/ikatsov/tensor-house
 - **Next-Best-Action Recommendation** https://ambiata.com/blog/2020-09-21-next-best-action-concepts/
 - Bandits - https://eugeneyan.com/writing/bandits/
+- Contextual bandits for ads recommendations - https://bytes.swiggy.com/contextual-bandits-for-ads-recommendations-ec210775fcf
 ### Frameworks
 * ReAgent (Facebook) - https://github.com/facebookresearch/ReAgent
 * Open Multi-bandit pipeline - https://github.com/st-tech/zr-obp
