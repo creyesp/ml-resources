@@ -295,6 +295,8 @@ Papers:
 - University of Amsterdam Master - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
 - Dive into Deep Learning - http://d2l.ai/
 - https://github.com/full-stack-deep-learning
+- https://aws.amazon.com/machine-learning/mlu/
+  - https://mlu-explain.github.io/
 
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
