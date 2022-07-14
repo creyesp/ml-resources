@@ -7,6 +7,7 @@
 * ML interview book - https://github.com/chiphuyen/ml-interviews-book
 * Problem Framing - https://developers.google.com/machine-learning/problem-framing
 * Rules of ML - https://developers.google.com/machine-learning/guides/rules-of-ml
+* 5 Essential Management Strategies For A Data Science Project - https://medium.com/analytics-vidhya/5-essential-management-strategies-for-a-data-science-project-d38e9c850aeb
 
 # Python 
 * https://towardsdatascience.com/best-practices-for-setting-up-a-python-environment-d4af439846a
