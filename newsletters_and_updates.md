@@ -12,7 +12,5 @@
 * [OpenAI Research Blogs](https://openai.com/blog/)
 * [Amazon Science](https://www.amazon.science/blog)
 
-
-Best YouTube Channels To Subscribe for Latest AI Research Explanations :
-
+# YouTube Channels
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
