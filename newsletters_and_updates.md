@@ -14,3 +14,12 @@
 
 # YouTube Channels
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+
+# Podcast
+* [DataTalksClub](https://www.youtube.com/c/DataTalksClub)
+* [The Data Scientist Show](https://www.youtube.com/c/TheDataScientistShow/videos)
+* [MLOps community](https://www.youtube.com/c/MLOpscommunity)
+
+#Communities
+* [DataTalksClub](https://datatalks.club/)
+* [MLOps community](https://mlops.community/)
