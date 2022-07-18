@@ -297,6 +297,7 @@ Papers:
 - https://github.com/full-stack-deep-learning
 - https://aws.amazon.com/machine-learning/mlu/
   - https://mlu-explain.github.io/
+- Aman Chadha resources  - https://aman.ai/
 
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
