@@ -49,6 +49,8 @@
   *  The Rapid Evolution of the Canonical Stack for Machine Learning - https://opendatascience.com/the-rapid-evolution-of-the-canonical-stack-for-machine-learning/
   *  Navigating the MLOps tooling landscape (Part 1: The Lifecycle) - https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/
   *  Introducing TWIML’s New ML and AI Solutions Guide - https://twimlai.com/solutions/introducing-twiml-ml-ai-solutions-guide/
+  *  Papers:
+    *  [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
