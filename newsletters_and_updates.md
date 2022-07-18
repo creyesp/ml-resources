@@ -1,7 +1,7 @@
 # Articles and Blogs
 ## Medium
-* [Towards-Data-Science] : https://towardsdatascience.com/
-* [Analytics Vidya] : https://medium.com/analytics-vidhya
+* [Towards-Data-Science](https://towardsdatascience.com/)
+* [Analytics Vidya](https://medium.com/analytics-vidhya)
 * [Total Data Science](https://medium.com/total-data-science)
 
 ## Tech companies
