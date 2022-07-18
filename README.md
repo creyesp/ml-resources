@@ -45,12 +45,16 @@
 * https://towardsdatascience.com/how-to-measure-data-quality-815076010b37
 * https://huyenchip.com/machine-learning-systems-design/toc.html
 * Machine Learning Production Pipeline - https://docs.google.com/presentation/d/1mvmJ1PnCe7lWGmSoL80CjLe7N2QpEwkU8x7l62BawME/edit#slide=id.g7eb0adee5f_0_854
+* [MLOps without much ops | Coveo series](https://towardsdatascience.com/tagged/mlops-without-much-ops)
 * Stack for Machine Learning
   *  The Rapid Evolution of the Canonical Stack for Machine Learning - https://opendatascience.com/the-rapid-evolution-of-the-canonical-stack-for-machine-learning/
   *  Navigating the MLOps tooling landscape (Part 1: The Lifecycle) - https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/
   *  Introducing TWIML’s New ML and AI Solutions Guide - https://twimlai.com/solutions/introducing-twiml-ml-ai-solutions-guide/
-  *  Papers:
-    *  [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
+*  Papers:
+  *  [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
+* Frameworks
+  * https://github.com/bodywork-ml/bodywork-core
+  
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
