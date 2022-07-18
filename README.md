@@ -54,7 +54,8 @@
   *  [Machine Learning Operations (MLOps): Overview, Definition, and Architecture](https://arxiv.org/pdf/2205.02302.pdf)
 * Frameworks
   * https://github.com/bodywork-ml/bodywork-core
-  
+* ML platform in the industry
+  * [Instacart](https://tech.instacart.com/griffin-how-instacarts-ml-platform-tripled-ml-applications-in-a-year-d3d4dcae3690)
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
