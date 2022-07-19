@@ -305,6 +305,7 @@ Papers:
 - https://aws.amazon.com/machine-learning/mlu/
   - https://mlu-explain.github.io/
 - Aman Chadha resources  - https://aman.ai/
+- [Standform Tranformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
