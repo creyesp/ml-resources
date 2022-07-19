@@ -46,6 +46,7 @@
 * https://huyenchip.com/machine-learning-systems-design/toc.html
 * Machine Learning Production Pipeline - https://docs.google.com/presentation/d/1mvmJ1PnCe7lWGmSoL80CjLe7N2QpEwkU8x7l62BawME/edit#slide=id.g7eb0adee5f_0_854
 * [MLOps without much ops | Coveo series](https://towardsdatascience.com/tagged/mlops-without-much-ops)
+* [Breaking up with Flask & FastAPI: Why ML model serving requires a specialized framework](https://modelserving.com/blog/breaking-up-with-flask-amp-fastapi-why-ml-model-serving-requires-a-specialized-framework)
 * Stack for Machine Learning
   *  The Rapid Evolution of the Canonical Stack for Machine Learning - https://opendatascience.com/the-rapid-evolution-of-the-canonical-stack-for-machine-learning/
   *  Navigating the MLOps tooling landscape (Part 1: The Lifecycle) - https://ljvmiranda921.github.io/notebook/2021/05/10/navigating-the-mlops-landscape/
