@@ -11,6 +11,8 @@
 * [Facebook Latest AI Updates](https://ai.facebook.com/)
 * [OpenAI Research Blogs](https://openai.com/blog/)
 * [Amazon Science](https://www.amazon.science/blog)
+* [Swiggy](https://bytes.swiggy.com/)
+* [Doordash](https://doordash.news/)
 
 # YouTube Channels
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
