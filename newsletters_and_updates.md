@@ -13,6 +13,7 @@
 * [Amazon Science](https://www.amazon.science/blog)
 * [Swiggy](https://bytes.swiggy.com/)
 * [Doordash](https://doordash.news/)
+* [Instacart](https://www.instacart.com/company/blog/)
 
 # YouTube Channels
 * [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
