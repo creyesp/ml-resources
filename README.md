@@ -60,6 +60,7 @@
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
+* [Do You Really Need a Feature Store?](https://towardsdatascience.com/do-you-really-need-a-feature-store-e59e3cc666d3)
 
 ## Serving
 * https://medium.com/@apoor/serving-ml-models-with-grpc-2116cf8374dd
