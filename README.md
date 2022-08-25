@@ -7,6 +7,7 @@
 * ML interview book - https://github.com/chiphuyen/ml-interviews-book
 * Problem Framing - https://developers.google.com/machine-learning/problem-framing
 * Rules of ML - https://developers.google.com/machine-learning/guides/rules-of-ml
+* ML Education at Uber: Frameworks Inspired by Engineering Principles - https://www.uber.com/en-PL/blog/ml-education-at-uber/
 * 5 Essential Management Strategies For A Data Science Project - https://medium.com/analytics-vidhya/5-essential-management-strategies-for-a-data-science-project-d38e9c850aeb
 
 # Python 
@@ -24,6 +25,14 @@
 * Rules of Machine Learnng (Google) - https://developers.google.com/machine-learning/guides/rules-of-ml
 
 # MLOPS
+Open source resources to learn about MLOps:
+  * Made with ML by Goku Mohandas: https://madewithml.com/
+  * Machine Learning Systems Design by Chip Huyen: https://stanford-cs329s.github.io/ | [book](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/)
+  * Part of NYU course by Jacopo Tagliabue: https://github.com/jacopotagliabue/FREE_7773
+  * The Machine Learning Engineering book by Andriy Burkov http://www.mlebook.com/
+  * Full Stack Deep Learning course https://fullstackdeeplearning.com/
+
+Blogs
 * Reproducible deep learning course - https://www.sscardapane.it/teaching/reproducibledl/
 * https://services.google.com/fh/files/misc/practitioners_guide_to_mlops_whitepaper.pdf
 * https://cloud.google.com/architecture/mlops-continuous-delivery-and-automation-pipelines-in-machine-learning
@@ -83,6 +92,7 @@
 # Algorithms / Technique
 
 ## NLP 
+* Complete collection of NLP Resources - https://github.com/ivan-bilan/The-NLP-Pandect
 * Bulk labeling - https://github.com/RasaHQ/rasalit
 
 ## Embeddings
