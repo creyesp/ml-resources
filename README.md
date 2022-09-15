@@ -265,6 +265,7 @@ Papers:
 * EMTA https://github.com/brunnurs/entity-matching-transformer
 * Auto-EM https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Auto-EM.pdf
 * Ditto https://arxiv.org/pdf/2004.00584.pdf
+* GROOV (facebook) - https://arxiv.org/pdf/2209.06148.pdf
 
 ### Foodbert
 - http://pic2recipe.csail.mit.edu/
