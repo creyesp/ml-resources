@@ -9,6 +9,7 @@
 * Rules of ML - https://developers.google.com/machine-learning/guides/rules-of-ml
 * ML Education at Uber: Frameworks Inspired by Engineering Principles - https://www.uber.com/en-PL/blog/ml-education-at-uber/
 * 5 Essential Management Strategies For A Data Science Project - https://medium.com/analytics-vidhya/5-essential-management-strategies-for-a-data-science-project-d38e9c850aeb
+* [Machine Learning that Matters 2012](https://arxiv.org/abs/1206.4656)
 
 # Python 
 * https://towardsdatascience.com/best-practices-for-setting-up-a-python-environment-d4af439846a
@@ -233,8 +234,14 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
   - Losses: Multiple Negative Ranking Loss (Training with in-batch negative InfoNCE or NTXentloss) / Batch Hard Triplet Loss / Triplet Loss / Contrative loss / CosineSimilarity loss
 - The InfoNCE loss in self-supervised learning (deeplearning) - https://crossminds.ai/video/the-infonce-loss-in-self-supervised-learning-606fef0bf43a7f2f827c1583/
 * Papers:
-  - Big Self-Supervised Models are Strong Semi-Supervised Learners / SimCRLv2 (2020)- https://arxiv.org/pdf/2006.10029.pdf
-  - Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language (2022 Facebook)- https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language
+  - 2019
+    * [Self-Supervised Learning of Pretext-Invariant Representations `FAIR`](https://arxiv.org/abs/1912.01991)
+  - 2020
+    * [Momentum Contrast for Unsupervised Visual Representation Learning `FAIR``](https://arxiv.org/abs/1911.05722)
+    * [SimCLR - A Simple Framework for Contrastive Learning of Visual Representations `Google Brain`](https://arxiv.org/abs/2002.05709)
+    * [SimCRLv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners](https://arxiv.org/abs/2006.10029)
+  - 2022
+    - [Data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language `Facebook`](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)
 * https://github.com/voidism/DiffCSE 
 
 ## Others
