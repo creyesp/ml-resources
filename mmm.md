@@ -35,3 +35,5 @@ Blogs:
 * [Improving the Speed and Accuracy of Bayesian Media Mix Models](https://www.pymc-labs.io/blog-posts/reducing-customer-acquisition-costs-how-we-helped-optimizing-hellofreshs-marketing-budget/)
 * [Bayesian Media Mix Models: Modelling changes in marketing effectiveness over time](https://www.pymc-labs.io/blog-posts/modelling-changes-marketing-effectiveness-over-time/)
 * [Masterclass - Facebook Robyn Tutorial for Marketing Mix Modeling](https://www.youtube.com/playlist?list=PLdaWFt7A-Gf0iyEHwRTuneNN9wKQmJ-QB)
+* [Improving Marketing Mix Modeling Using Machine Learning Approaches](https://towardsdatascience.com/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)
+* [Bayesian Marketing Mix Modeling in Python via PyMC3](https://towardsdatascience.com/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a)
