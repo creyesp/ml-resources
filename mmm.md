@@ -43,3 +43,9 @@ Blogs:
 * [Masterclass - Facebook Robyn Tutorial for Marketing Mix Modeling](https://www.youtube.com/playlist?list=PLdaWFt7A-Gf0iyEHwRTuneNN9wKQmJ-QB)
 * [Improving Marketing Mix Modeling Using Machine Learning Approaches](https://towardsdatascience.com/improving-marketing-mix-modeling-using-machine-learning-approaches-25ea4cd6994b)
 * [Bayesian Marketing Mix Modeling in Python via PyMC3](https://towardsdatascience.com/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a)
+
+
+Companies that have MMM as part of their services:
+* [Marketing Management analytics](https://mma.com/)
+* [Neustar](https://www.home.neustar/)
+* [Nielsen](https://www.nielsen.com/)
