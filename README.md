@@ -319,13 +319,13 @@ Papers:
 * https://www.tensorflow.org/certificate
 
 ### Course
-- University of Amsterdam Master - https://uvadlc-notebooks.readthedocs.io/en/latest/index.html
-- Dive into Deep Learning - http://d2l.ai/
-- https://github.com/full-stack-deep-learning
-- https://aws.amazon.com/machine-learning/mlu/
-  - https://mlu-explain.github.io/
-- Aman Chadha resources  - https://aman.ai/
+- [University of Amsterdam Master](https://uvadlc-notebooks.readthedocs.io/en/latest/index.html)
+- [Dive into Deep Learning](http://d2l.ai/)
+- [Full stack deep learning](https://github.com/full-stack-deep-learning)
+- [Machine Learning University `Amazon`](https://aws.amazon.com/machine-learning/mlu/) [github](https://mlu-explain.github.io/)
+- [Aman Chadha resources](https://aman.ai/)
 - [Standform Tranformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
+- [DEEP LEARNING - SPRING 2020 - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
 
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
