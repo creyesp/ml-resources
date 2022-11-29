@@ -246,6 +246,7 @@ Contrastive learning is a self-supervised, task-independent deep learning techni
 
 ## Others
 * [Rethinking Pre-training and Self-training](https://arxiv.org/pdf/2006.06882.pdf)
+* [Confident Learning: Estimating Uncertainty in Dataset Labels](https://arxiv.org/abs/1911.00068)
 
 ## Applied ml in the industry (papers)
 
