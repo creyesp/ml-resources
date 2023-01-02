@@ -32,6 +32,7 @@ Open source resources to learn about MLOps:
   * Part of NYU course by Jacopo Tagliabue: https://github.com/jacopotagliabue/FREE_7773
   * The Machine Learning Engineering book by Andriy Burkov http://www.mlebook.com/
   * Full Stack Deep Learning course https://fullstackdeeplearning.com/
+  * [Metaflow tutorials](https://outerbounds.com/docs/recsys-tutorial-overview/)
 
 Blogs
 * Reproducible deep learning course - https://www.sscardapane.it/teaching/reproducibledl/
@@ -67,6 +68,7 @@ Blogs
   * https://github.com/bodywork-ml/bodywork-core
 * ML platform in the industry
   * [Instacart](https://tech.instacart.com/griffin-how-instacarts-ml-platform-tripled-ml-applications-in-a-year-d3d4dcae3690)
+* [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/?s=35)
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
@@ -206,6 +208,7 @@ Logformer (hybrid local en global attention)
 * [IJCAI 2021 Tutorial: Modern Aspects of Big Time Series Forecasting](https://www.youtube.com/watch?v=AB3I9pdT46c)
 * M4 Forecasting Competition: Introducing a New Hybrid ES-RNN Model (Uber) - https://eng.uber.com/m4-forecasting-competition/
 * Interpretable Deep Learning for Time Series Forecasting (Google) - https://ai.googleblog.com/2021/12/interpretable-deep-learning-for-time.html
+* [Anomali detection on TS](https://github.com/sintel-dev/Orion)
 
 ### Papers:
 * **N-BEATS: Neural basis expansion analysis for interpretable time series forecasting** - https://openreview.net/pdf?id=r1ecqn4YwB
@@ -300,6 +303,10 @@ Papers:
 * The right way to compute your Shapley Values - https://towardsdatascience.com/the-right-way-to-compute-your-shapley-values-cfea30509254
 * **A Brief Overview of Methods to Explain AI (XAI)** - https://towardsdatascience.com/a-brief-overview-of-methods-to-explain-ai-xai-fe0d2a7b05d6
 
+# Ab testing
+[Bayesian A/B Testing for Business Decisions](https://arxiv.org/pdf/2003.02769.pdf)
+[Statistical Challenges in Online Controlled Experiments: A Review of A/B Testing Methodology](https://arxiv.org/abs/2212.11366)
+
 # Frameworks
 ## Tensorflow 
 * https://www.tensorflow.org/guide/keras/preprocessing_layers
@@ -327,6 +334,9 @@ Papers:
 - [Aman Chadha resources](https://aman.ai/)
 - [Standform Tranformers](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
 - [DEEP LEARNING - SPRING 2020 - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
+- [Stanford CS330: Deep Multi-Task & Meta Learning I Autumn 2021I](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36)
+- [Deep learnign fundamental Pytorch ligthning](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
+
 
 # Other topics
 *  State of AI Report 2021  - https://www.stateof.ai/
