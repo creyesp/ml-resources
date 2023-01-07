@@ -69,6 +69,7 @@ Blogs
 * ML platform in the industry
   * [Instacart](https://tech.instacart.com/griffin-how-instacarts-ml-platform-tripled-ml-applications-in-a-year-d3d4dcae3690)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/?s=35)
+* [A Review of Location Encoding for GeoAI: Methods and Applications](https://gengchenmai.github.io/papers/2021-IJGIS-Location-Encoding.pdf)
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
