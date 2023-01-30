@@ -337,6 +337,7 @@ Papers:
 - [DEEP LEARNING - SPRING 2020 - NYU CENTER FOR DATA SCIENCE](https://atcold.github.io/pytorch-Deep-Learning/)
 - [Stanford CS330: Deep Multi-Task & Meta Learning I Autumn 2021I](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36)
 - [Deep learnign fundamental Pytorch ligthning](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
+- [Applied Deep Learning Course](https://github.com/maziarraissi/Applied-Deep-Learning)
 
 
 # Other topics
