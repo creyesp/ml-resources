@@ -70,6 +70,8 @@ Blogs
   * [Instacart](https://tech.instacart.com/griffin-how-instacarts-ml-platform-tripled-ml-applications-in-a-year-d3d4dcae3690)
 * [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/?s=35)
 * [A Review of Location Encoding for GeoAI: Methods and Applications](https://gengchenmai.github.io/papers/2021-IJGIS-Location-Encoding.pdf)
+* [A step-by-step guide to using MLFlow Recipes to refactor messy notebooks](https://fukumaruuu.medium.com/a-step-by-step-guide-to-using-mlflow-recipes-to-refactor-messy-notebooks-f78196b97ff0)
+* [Streamlining Machine Learning Operations (MLOps) with Kubernetes and Terraform](https://medium.com/ai-hero/streamlining-machine-learning-operations-with-kubernetes-and-terraform-41baad37998e)
 
 ## Feature store
 * Featureform - https://www.featureform.com/embeddinghub
@@ -97,6 +99,7 @@ Blogs
 
 ## NLP 
 * Complete collection of NLP Resources - https://github.com/ivan-bilan/The-NLP-Pandect
+* [A Complete Guide to Natural Language Processing](https://www.deeplearning.ai/resources/natural-language-processing/)
 * Bulk labeling - https://github.com/RasaHQ/rasalit
 
 ## Embeddings
