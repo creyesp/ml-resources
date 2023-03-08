@@ -341,6 +341,7 @@ Papers:
 - [Stanford CS330: Deep Multi-Task & Meta Learning I Autumn 2021I](https://www.youtube.com/playlist?list=PLoROMvodv4rMIJ-TvblAIkw28Wxi27B36)
 - [Deep learnign fundamental Pytorch ligthning](https://lightning.ai/pages/courses/deep-learning-fundamentals/)
 - [Applied Deep Learning Course](https://github.com/maziarraissi/Applied-Deep-Learning)
+- [Stat Rethinking](https://github.com/rmcelreath/stat_rethinking_2023)
 
 
 # Other topics
