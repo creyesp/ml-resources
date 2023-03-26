@@ -10,6 +10,7 @@
 * ML Education at Uber: Frameworks Inspired by Engineering Principles - https://www.uber.com/en-PL/blog/ml-education-at-uber/
 * 5 Essential Management Strategies For A Data Science Project - https://medium.com/analytics-vidhya/5-essential-management-strategies-for-a-data-science-project-d38e9c850aeb
 * [Machine Learning that Matters 2012](https://arxiv.org/abs/1206.4656)
+* [Understanding UMAP](https://pair-code.github.io/understanding-umap/)
 
 # Python 
 * https://towardsdatascience.com/best-practices-for-setting-up-a-python-environment-d4af439846a
