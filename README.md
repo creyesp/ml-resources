@@ -34,6 +34,7 @@ Open source resources to learn about MLOps:
   * The Machine Learning Engineering book by Andriy Burkov http://www.mlebook.com/
   * Full Stack Deep Learning course https://fullstackdeeplearning.com/
   * [Metaflow tutorials](https://outerbounds.com/docs/recsys-tutorial-overview/)
+  * [Building a Machine Learning Platform [Definitive Guide] ](https://neptune.ai/blog/ml-platform-guide)
 
 Blogs
 * Reproducible deep learning course - https://www.sscardapane.it/teaching/reproducibledl/
