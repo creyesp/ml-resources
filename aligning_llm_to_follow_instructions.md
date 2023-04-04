@@ -27,6 +27,10 @@ RLHF
 - [Illustrating Reinforcement Learning from Human Feedback (RLHF)](https://huggingface.co/blog/rlhf)
 - [Creating Your Own ChatGPT: A Guide to Fine-Tuning LLMs with LoRA](https://ai.plainenglish.io/creating-your-own-chatgpt-a-guide-to-fine-tuning-llms-with-lora-d7817b77fac0)
 
+Videos:
+- [Reinforcement Learning from Human Feedback: From Zero to chatGPT `HF`](https://www.youtube.com/watch?v=2MBJOuVq380)
+- [How ChatGPT works - From Transformers to Reinforcement Learning with Human Feedback (RLHF)](https://www.youtube.com/watch?v=wA8rjKueB3Q)
+
 Fine tune GPT-3
 - [How We Build The Highest Confidence GPT-3 Chatbots Available In 2022](https://www.width.ai/post/gpt-3-chatbots): Prompt Optimization & Variable Handling, fill in-context
 - [Fine Tuning GPT-3: Building a Custom Q&A Bot Using Embeddings](https://www.mlq.ai/fine-tuning-gpt-3-question-answer-bot/): it use document embedding to find the context to a question and then use the completaion model to get de answer
