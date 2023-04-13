@@ -58,6 +58,7 @@ Blogs:
 * [Bayesian Marketing Mix Modeling in Python via PyMC3](https://towardsdatascience.com/bayesian-marketing-mix-modeling-in-python-via-pymc3-7b2071f6001a)
 * [**Bayesian Media Mix Modeling with limited data**](https://www.artefact.com/blog/bayesian-media-mix-modeling-with-limited-data/)
 * [Calibrated MMM better predicts true roas](https://medium.com/@gufengzhou/calibrated-mmm-better-predicts-true-roas-d5adfc8abdc4)
+* [Convenient Bayesian Marketing Mix Modeling with PyMC Marketing](https://towardsdatascience.com/convenient-bayesian-marketing-mix-modeling-with-pymc-marketing-8b02a9a9c4aa)
 
 Companies that have MMM as part of their services:
 * [Marketing Management analytics](https://mma.com/)
