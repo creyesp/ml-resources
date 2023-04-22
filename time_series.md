@@ -1,8 +1,23 @@
+Approaches: 
+* Full history model
+* Window-based regression problem
+
 
 # Competitions
 Forecasts are indispensable for many of the decisions that we make, such as time to get up in the morning in order to not be late for work, or the brand of television to buy that provides the best value for money. Supermarkets require forecasts to support their strategic development, make tactical decisions, and manage their demand and supply planning processes in order to avoid customer service issues and high inventory costs
 
-The M5 Competition (ran from 2 March to 30 June 2020)
+## M comeptitions
+the first three competitions demonstrated the value of combining, the potential of automatic forecasting methods, and the merits of simplicity, 
+thw fourth competition showed that machine learning (ML) methods and a hybrid approach utilizing “cross-learning” (Semenoglou et al., 2021) obtained more successful forecasts than the alternatives.
+the fivefocusing on a retail sales forecasting application and using real-life, hierarchically structured sales data with intermittent and erratic characteristics
+- M1 11001
+- M2 1987-1989  (Arima)
+- M3 2000 - 3003 series (Famous Theta method )
+- M4 2018 - 100,000 time series (different ) 
+- M5 2020 - ~42K
+- M6
+
+### The M5 Competition (ran from 2 March to 30 June 2020)
 
 It differed from the previous four ones in six important ways, some of which were suggested by the discussants of the M4 Competition.
 
@@ -62,22 +77,9 @@ Statistical Benchmarks
 * [M5 competition by M Open Forecasting Center (MOFC)](https://mofc.unic.ac.cy/m5-competition/)
 * [Github of competition](https://github.com/Mcompetitions)
 * [Kaggle](https://www.kaggle.com/competitions/m5-forecasting-accuracy/overview)
-* [International Institude of forcasting](https://forecasters.org/)
-* [International journal of forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting)
-
-
 
 Companies that support the competition
 - [forecastpro](https://www.forecastpro.com/)
-
-
-
-ToDO:
-- [ ] Read all solution available in github
-- [ ] Read dissuctions in kaggle
-
-
-
 
 
 # Metrics 
@@ -138,9 +140,82 @@ Papers:
 - [ ] [Introduction to the M5 forecasting competition Special Issue](https://www.sciencedirect.com/science/article/pii/S0169207022000565)
 - [ ] [M5 accuracy competition: Results, findings, and conclusions](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
 
+
+Methods
+
+2016
+- [TRMF: Temporal regularized matrix factorization for high-dimensional time series prediction](https://dl.acm.org/doi/abs/10.5555/3157096.3157191): is a highly scalable matrix factorization based approach, due to its ability to model global structures in the data
+
+2017 
+- [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
+2018
+- [STGCN: Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://www.ijcai.org/proceedings/2018/0505.pdf)
+- [**LSTNet**: Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks `SIGIR`](https://arxiv.org/abs/1703.07015)[code](): local multivariate patterns, modeled by a convolutional layer and long-term dependencies, captured by a recurrent network structure
+- [**DeepState**: Deep state space models for time series forecasting `Amazon` `NIPS`](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html): is a probabilistic generative model that learns to parametrize a linear state space model using RNNs
+
+2019
+- [**DeepGLO**: Think globally, act locally: a deep neural network approach to high-dimensional time series forecasting `Amazon` ](https://dl.acm.org/doi/10.5555/3454287.3454722)[code](https://github.com/rajatsen91/deepglo)
+- [Deep Air Quality Forecasting Using Hybrid Deep Learning Framework](https://ieeexplore.ieee.org/document/8907358): consists of a two-staged feature representation; The data is passed through three 1D convolutional layers, followed by two bi-directional LSTM layers and a subsequent linear layer for prediction
+- [**DeepAR**: Probabilistic forecasting with autoregressive recurrent networks `Amazon` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207019301888): is an auto-regressive probabilistic RNN model thatestimates parametric distributions from time series with the help of additional time- and categorical covariates
+- [Multi-Horizon Time Series Forecasting with Temporal Attention Learning `KDD`](https://dl.acm.org/doi/10.1145/3292500.3330662)
+
+2020
+- [Temporal fusion transformers for interpretable multi-horizon time series forecasting `Google` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021000637): ombines recurrent layers for local processing with the transformer-typical self-attention layers that capture long-term dependencies in the data
+
+2021
+- [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)[code](https://github.com/Daniela-Shereen/GBRT-for-TSF)
+
+
+Review 
+
+2018
+- [ ] [The M4 Competition: Results, findings, conclusion and way forward](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300785)
+- [ ] [Considerations of a retail forecasting practitioner](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300293)
+
+2020
+- [ ] [The M4 Competition: 100,000 time series and 61 forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301128)
+
+2021
+- [ ] [Investigating the accuracy of cross-learning time series forecasting methods `M4`](https://www.sciencedirect.com/science/article/abs/pii/S0169207020301850)
+- [ ] [Kaggle forecasting competitions: An overlooked learning opportunity](https://www.sciencedirect.com/science/article/abs/pii/S0169207020301114)
+- [ ] [Product sales probabilistic forecasting: An empirical evaluation using the M5 competition data](https://www.sciencedirect.com/science/article/abs/pii/S0925527321002139)
+
+2022
+- [x] [M5 accuracy competition: Results, findings, and conclusions `M5`](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
+- [ ] [Exploring the representativeness of the M5 competition data](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001175)
+
+## Conferences & Journals
+- [International journal of forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting) [Alternative](https://forecasters.org/)
+- NeurIPS Advances in neural information processing systems.
+- KDD
+- SIGIR
+- SDM
+- ECML
+- ICML
+- CIKM
+- IJCAI International Joint Conference on Artificial Intelligence
+- ICLR 
+- SIGKDD International Conference on Knowledge Discovery & Data Mining.
+
+
+# Code and implementation
+
+* https://github.com/google-research/google-research/tree/master/tft
+* https://github.com/awslabs/gluonts
+* https://github.com/unit8co/darts
+
+# Competitions
+
+- Corporación Favorita Grocery Sales Forecasting
+- Recruit Restaurant Visitor Forecasting
+
+
 # Blogs
+
 * [Deep learning is what you don't need](https://valeman.medium.com/-86655805a676)
 
+
 # Libraries
+
 - https://github.com/aeon-toolkit/aeon
 - 
