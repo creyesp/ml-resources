@@ -136,37 +136,32 @@ Of course, there will be situations where some of the existing measures may stil
 
 
 # Papers
-Papers:
-- [ ] [Introduction to the M5 forecasting competition Special Issue](https://www.sciencedirect.com/science/article/pii/S0169207022000565)
-- [ ] [M5 accuracy competition: Results, findings, and conclusions](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
-
-
-Methods
+## Methods
 
 2016
-- [TRMF: Temporal regularized matrix factorization for high-dimensional time series prediction](https://dl.acm.org/doi/abs/10.5555/3157096.3157191): is a highly scalable matrix factorization based approach, due to its ability to model global structures in the data
+- [ ] [TRMF: Temporal regularized matrix factorization for high-dimensional time series prediction](https://dl.acm.org/doi/abs/10.5555/3157096.3157191): is a highly scalable matrix factorization based approach, due to its ability to model global structures in the data
 
 2017 
-- [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
+- [ ] [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
 2018
-- [STGCN: Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://www.ijcai.org/proceedings/2018/0505.pdf)
-- [**LSTNet**: Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks `SIGIR`](https://arxiv.org/abs/1703.07015)[code](): local multivariate patterns, modeled by a convolutional layer and long-term dependencies, captured by a recurrent network structure
-- [**DeepState**: Deep state space models for time series forecasting `Amazon` `NIPS`](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html): is a probabilistic generative model that learns to parametrize a linear state space model using RNNs
+- [ ] [STGCN: Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://www.ijcai.org/proceedings/2018/0505.pdf)
+- [ ] [**LSTNet**: Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks `SIGIR`](https://arxiv.org/abs/1703.07015)[code](): local multivariate patterns, modeled by a convolutional layer and long-term dependencies, captured by a recurrent network structure
+- [ ] [**DeepState**: Deep state space models for time series forecasting `Amazon` `NIPS`](https://papers.nips.cc/paper_files/paper/2018/hash/5cf68969fb67aa6082363a6d4e6468e2-Abstract.html): is a probabilistic generative model that learns to parametrize a linear state space model using RNNs
 
 2019
-- [**DeepGLO**: Think globally, act locally: a deep neural network approach to high-dimensional time series forecasting `Amazon` ](https://dl.acm.org/doi/10.5555/3454287.3454722)[code](https://github.com/rajatsen91/deepglo)
-- [Deep Air Quality Forecasting Using Hybrid Deep Learning Framework](https://ieeexplore.ieee.org/document/8907358): consists of a two-staged feature representation; The data is passed through three 1D convolutional layers, followed by two bi-directional LSTM layers and a subsequent linear layer for prediction
-- [**DeepAR**: Probabilistic forecasting with autoregressive recurrent networks `Amazon` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207019301888): is an auto-regressive probabilistic RNN model thatestimates parametric distributions from time series with the help of additional time- and categorical covariates
-- [Multi-Horizon Time Series Forecasting with Temporal Attention Learning `KDD`](https://dl.acm.org/doi/10.1145/3292500.3330662)
+- [ ] [**DeepGLO**: Think globally, act locally: a deep neural network approach to high-dimensional time series forecasting `Amazon` ](https://dl.acm.org/doi/10.5555/3454287.3454722)[code](https://github.com/rajatsen91/deepglo)
+- [ ] [Deep Air Quality Forecasting Using Hybrid Deep Learning Framework](https://ieeexplore.ieee.org/document/8907358): consists of a two-staged feature representation; The data is passed through three 1D convolutional layers, followed by two bi-directional LSTM layers and a subsequent linear layer for prediction
+- [ ] [**DeepAR**: Probabilistic forecasting with autoregressive recurrent networks `Amazon` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207019301888): is an auto-regressive probabilistic RNN model thatestimates parametric distributions from time series with the help of additional time- and categorical covariates
+- [ ] [Multi-Horizon Time Series Forecasting with Temporal Attention Learning `KDD`](https://dl.acm.org/doi/10.1145/3292500.3330662)
 
 2020
-- [Temporal fusion transformers for interpretable multi-horizon time series forecasting `Google` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021000637): ombines recurrent layers for local processing with the transformer-typical self-attention layers that capture long-term dependencies in the data
+- [ ] [Temporal fusion transformers for interpretable multi-horizon time series forecasting `Google` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021000637): ombines recurrent layers for local processing with the transformer-typical self-attention layers that capture long-term dependencies in the data
 
 2021
-- [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf)[code](https://github.com/Daniela-Shereen/GBRT-for-TSF)
+- [x] [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf) - [code](https://github.com/Daniela-Shereen/GBRT-for-TSF)
 
 
-Review 
+## Review 
 
 2018
 - [ ] [The M4 Competition: Results, findings, conclusion and way forward](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300785)
@@ -183,6 +178,8 @@ Review
 2022
 - [x] [M5 accuracy competition: Results, findings, and conclusions `M5`](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
 - [ ] [Exploring the representativeness of the M5 competition data](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001175)
+- [ ] [Introduction to the M5 forecasting competition Special Issue](https://www.sciencedirect.com/science/article/pii/S0169207022000565)
+
 
 ## Conferences & Journals
 - [International journal of forecasting](https://www.sciencedirect.com/journal/international-journal-of-forecasting) [Alternative](https://forecasters.org/)
