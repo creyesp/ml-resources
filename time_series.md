@@ -172,6 +172,8 @@ Of course, there will be situations where some of the existing measures may stil
 
 2022
 - [ ] [Forecasting with trees](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
+- [ ] [Benchmark time series data sets for PyTorch – the torchtime package](https://arxiv.org/abs/2207.12503)
+
 2023
 - [ ] [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424) - [Google Blogs - Recent advances in deep long-horizon forecasting](https://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
 
@@ -194,6 +196,9 @@ Of course, there will be situations where some of the existing measures may stil
 - [x] [M5 accuracy competition: Results, findings, and conclusions `M5`](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
 - [ ] [Exploring the representativeness of the M5 competition data](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001175)
 - [ ] [Introduction to the M5 forecasting competition Special Issue](https://www.sciencedirect.com/science/article/pii/S0169207022000565)
+- [ ] [Commentary on the M5 forecasting competition](https://www.sciencedirect.com/science/article/abs/pii/S016920702100128X)
+- [ ] [M5 competition uncertainty: Overdispersion, distributional forecasting, GAMLSS, and beyond](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001527)
+- [ ] [GoodsForecast second-place solution in M5 Uncertainty track: Combining heterogeneous models for a quantile estimation task](https://www.sciencedirect.com/science/article/abs/pii/S0169207022000541)
 - [ ] [Forecasting: theory and practice `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
 
 
