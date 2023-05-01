@@ -134,6 +134,13 @@ $$ RSMSSE = sqrt{{ 1 \over h } { sum_{t=n+1}^{n+h}{(Y_t - \hat{Y}_t)^2 \over { 1
 
 Of course, there will be situations where some of the existing measures may still be preferred. For example, if all series are on the same scale, then the MAE may be preferred because it is simpler to explain. If all data are positive and much greater than zero, the MAPE may still be preferred for reasons of simplicity. However, in situations where there are very different scales including data which are close to zero or negative, we suggest the MASE is the best available measure of forecast accuracy.
 
+* [M5 simple fe](https://www.kaggle.com/kyakovlev/m5-simple-fe)
+* [M5 lags features](https://www.kaggle.com/kyakovlev/m5-lags-features)
+* [M5 custom features](https://www.kaggle.com/kyakovlev/m5-custom-features)
+* [M5 three shades of dark darker magic](https://www.kaggle.com/kyakovlev/m5-three-shades-of-dark-darker-magic)
+* [M5 Forecasting Competition GluonTS Template](https://www.kaggle.com/code/steverab/m5-forecasting-competition-gluonts-template/notebook)
+* [Why tweedie works?](https://www.kaggle.com/c/m5-forecasting-accuracy/discussion/150614)
+
 
 # Papers
 ## Methods
@@ -153,12 +160,20 @@ Of course, there will be situations where some of the existing measures may stil
 - [ ] [Deep Air Quality Forecasting Using Hybrid Deep Learning Framework](https://ieeexplore.ieee.org/document/8907358): consists of a two-staged feature representation; The data is passed through three 1D convolutional layers, followed by two bi-directional LSTM layers and a subsequent linear layer for prediction
 - [ ] [**DeepAR**: Probabilistic forecasting with autoregressive recurrent networks `Amazon` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207019301888): is an auto-regressive probabilistic RNN model thatestimates parametric distributions from time series with the help of additional time- and categorical covariates
 - [ ] [Multi-Horizon Time Series Forecasting with Temporal Attention Learning `KDD`](https://dl.acm.org/doi/10.1145/3292500.3330662)
+- [ ] [Tweedie Gradient Boosting for Extremely Unbalanced Zero-inflated Data](https://arxiv.org/abs/1811.10192)
+- [ ] [Spatial risk estimation in Tweedie compound Poisson double generalized linear models](https://arxiv.org/abs/1912.12356)
 
 2020
 - [ ] [Temporal fusion transformers for interpretable multi-horizon time series forecasting `Google` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021000637): ombines recurrent layers for local processing with the transformer-typical self-attention layers that capture long-term dependencies in the data
+- [ ] [FORECASTING WITH SKTIME: DESIGNING SKTIME’S NEW FORECASTING API AND APPLYING IT TO REPLICATE AND EXTEND THE M4 STUDY](https://arxiv.org/pdf/2005.08067.pdf)
 
 2021
 - [x] [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf) - [code](https://github.com/Daniela-Shereen/GBRT-for-TSF)
+
+2022
+- [ ] [Forecasting with trees](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
+2023
+- [ ] [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424) - [Google Blogs - Recent advances in deep long-horizon forecasting](https://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
 
 
 ## Review 
@@ -179,6 +194,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [x] [M5 accuracy competition: Results, findings, and conclusions `M5`](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
 - [ ] [Exploring the representativeness of the M5 competition data](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001175)
 - [ ] [Introduction to the M5 forecasting competition Special Issue](https://www.sciencedirect.com/science/article/pii/S0169207022000565)
+- [ ] [Forecasting: theory and practice `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
 
 
 ## Conferences & Journals
@@ -189,10 +205,15 @@ Of course, there will be situations where some of the existing measures may stil
 - SDM
 - ECML
 - ICML
-- CIKM
+- [CIKM](http://www.cikmconference.org/)
 - IJCAI International Joint Conference on Artificial Intelligence
 - ICLR 
 - SIGKDD International Conference on Knowledge Discovery & Data Mining.
+- 
+
+## Book 
+- [ ] [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+
 
 
 # Code and implementation
@@ -200,11 +221,19 @@ Of course, there will be situations where some of the existing measures may stil
 * https://github.com/google-research/google-research/tree/master/tft
 * https://github.com/awslabs/gluonts
 * https://github.com/unit8co/darts
+* https://github.com/sktime/sktime-dl
+* https://github.com/cuge1995/awesome-time-series#Kaggle-time-series-competition
+* https://amlts.github.io/amlts2022/
+* https://github.com/kashif/pytorch-transformer-ts
+* https://github.com/zalandoresearch/pytorch-ts
+* [XGBoostLSS](https://github.com/StatMixedML/XGBoostLSS): a probabilistic XGBoost time series modeling,  XGBoostLSS models all moments of a parametric distribution, i.e., mean, location, scale and shape (LSS), instead of the conditional mean only
+
 
 # Competitions
 
 - Corporación Favorita Grocery Sales Forecasting
 - Recruit Restaurant Visitor Forecasting
+- [Jane street market prediction](https://www.kaggle.com/competitions/jane-street-market-prediction/data)
 
 
 # Blogs
