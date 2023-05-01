@@ -245,8 +245,17 @@ Of course, there will be situations where some of the existing measures may stil
 
 * [Deep learning is what you don't need](https://valeman.medium.com/-86655805a676)
 
+# Video
+- [x] [Feature Engineering for Time Series Forecasting - Kishan Manani](https://www.youtube.com/watch?v=2vMNiSeNUjI&ab_channel=DataTalksClub%E2%AC%9B)
+
 
 # Libraries
 
 - https://github.com/aeon-toolkit/aeon
 - 
+
+
+# Dataset 
+type of data:
+ - data with seasonality (daily, monthly, yearly, etc)
+ - 
