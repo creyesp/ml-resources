@@ -183,6 +183,7 @@ Of course, there will be situations where some of the existing measures may stil
 2018
 - [ ] [The M4 Competition: Results, findings, conclusion and way forward](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300785)
 - [ ] [Considerations of a retail forecasting practitioner](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300293)
+- [x] [A classification of business forecasting problems]()
 
 2020
 - [ ] [The M4 Competition: 100,000 time series and 61 forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301128)
@@ -200,6 +201,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [ ] [M5 competition uncertainty: Overdispersion, distributional forecasting, GAMLSS, and beyond](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001527)
 - [ ] [GoodsForecast second-place solution in M5 Uncertainty track: Combining heterogeneous models for a quantile estimation task](https://www.sciencedirect.com/science/article/abs/pii/S0169207022000541)
 - [ ] [Forecasting: theory and practice `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
+- [ ] [Criteria for Classifying Forecasting Methods](https://arxiv.org/abs/2212.03523)
 
 
 ## Conferences & Journals
