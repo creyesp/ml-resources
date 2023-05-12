@@ -258,4 +258,12 @@ Of course, there will be situations where some of the existing measures may stil
 # Dataset 
 type of data:
  - data with seasonality (daily, monthly, yearly, etc)
- - 
+
+* [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) : Can you accurately predict sales for a large grocery chain?
+* [Walmart Sales Forecasting](https://www.kaggle.com/c/walmart-sales-forecasting/data)
+* [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data): Forecast sales using store, promotion, and competitor data
+
+
+# Related companies
+Planning companies 
+* https://blueyonder.com
