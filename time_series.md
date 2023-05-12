@@ -144,9 +144,10 @@ Of course, there will be situations where some of the existing measures may stil
 
 # Papers
 ## Methods
-
+2006
+- [x] [Another look at measures of forecast accuracy](https://www.sciencedirect.com/science/article/abs/pii/S0169207006000239): The paper discusses and compares different measures of forecast accuracy, and proposes that the mean absolute scaled error (MASE) be used as the standard measure for comparing forecast accuracy across multiple time series.
 2016
-- [ ] [TRMF: Temporal regularized matrix factorization for high-dimensional time series prediction](https://dl.acm.org/doi/abs/10.5555/3157096.3157191): is a highly scalable matrix factorization based approach, due to its ability to model global structures in the data
+- [ ] [TRMF: Temporal regularized matrix factorization for high-dimensional time series prediction](https://dl.acm.org/doi/abs/10.5555/3157096.3157191): A novel temporal regularized matrix factorization (TRMF) framework is proposed for high-dimensional time series analysis. TRMF learns temporal dependencies among latent factors and can be used for forecasting future values.
 
 2017 
 - [ ] [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
