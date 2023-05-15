@@ -286,8 +286,21 @@ Planning companies
 
 
 # Categrization
+## Classification of Business Forecasting Problems
 
+| Dimensions of the classification | Strategic | Tactical | Operation |
+|---|---|---|---|
+| Example | Mainly revenue forecasting for strategic decision, such cash flow, topology planning, and market/segment entrance/exit decisions. They are also used to communicate with investors. Other strategic forecasting problems include the trends in long-term energy consumption. | tactical forecasting encompasses promotion planning | demand forecasting in the retail sector as well as short-term energy consumption |
+| Forecast Horizon | Long term – many years | Three to six months | days to weeks |
+| Time and Product/Location Granularity | highly aggregated | Aggregate the entire brand in a region | Product-store |
+| Scale | handful of time series | Few brands | Thousands, even millions, of time series |
+| Latency requirements | Long (weeks) | online | hours |
+| Consumer of Forecasts | executives or middle management | category managers who negotiate terms with suppliers based on promotion plans and forecasts | automatic systems |
+| Characteristics of the Time Series. | regular time series | regular time series | the most difficult time series to forecast because of lumpiness, life cycles, and obsolescence. |
+| Drivers | Trend, seasonality, calendar events, macroeconomic variables | Historical promotions and prices, cannibalization, trend and seasonality. | Prices, competitor actions, seasonality, promotional activities, markdowns, ntraweekly seasonality, aggregated store-level data. |
+| Form of forecast | point forecasting | point forecasts with some reliance on prediction intervals | The entire forecast distribution |
 
+## Classifying Forecasting Methods
 | Category   | Dimension                               |
 |------------|-----------------------------------------|
 | Objective  | Global vs. Local Methods                |
