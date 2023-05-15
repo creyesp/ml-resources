@@ -85,7 +85,7 @@ Companies that support the competition
 # Metrics 
 Metrics:
 
-random walk or “na ̈ıve” method (where Ft is equal to the last observation)
+random walk or naıve method (where $f_t+k$ is equal to the last observation)
 
 
 Scale-dependent measures
@@ -151,6 +151,7 @@ Of course, there will be situations where some of the existing measures may stil
 
 2017 
 - [ ] [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
+- [ ] [A Multi-Horizon Quantile Recurrent Forecaster](https://arxiv.org/abs/1711.11053)
 2018
 - [ ] [STGCN: Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://www.ijcai.org/proceedings/2018/0505.pdf)
 - [ ] [**LSTNet**: Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks `SIGIR`](https://arxiv.org/abs/1703.07015)[code](): local multivariate patterns, modeled by a convolutional layer and long-term dependencies, captured by a recurrent network structure
@@ -174,20 +175,27 @@ Of course, there will be situations where some of the existing measures may stil
 2022
 - [ ] [Forecasting with trees](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
 - [ ] [Benchmark time series data sets for PyTorch – the torchtime package](https://arxiv.org/abs/2207.12503)
+- [ ] [ETSformer: Exponential Smoothing Transformers for Time-series Forecasting `SaleForce`](https://arxiv.org/abs/2202.01381)
+- [ ] [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/pdf/2201.12740.pdf)
 
 2023
 - [ ] [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424) - [Google Blogs - Recent advances in deep long-horizon forecasting](https://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
 
 
-## Review 
+## Review / survay
 
 2018
 - [ ] [The M4 Competition: Results, findings, conclusion and way forward](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300785)
 - [ ] [Considerations of a retail forecasting practitioner](https://www.sciencedirect.com/science/article/abs/pii/S0169207018300293)
-- [x] [A classification of business forecasting problems]()
+- [x] [A classification of business forecasting problems](https://forecasters.org/product/foresight-issue-52/)
+
+2019
+- [ ] [Deep Factors for Forecasting](https://arxiv.org/abs/1905.12417)
 
 2020
 - [ ] [The M4 Competition: 100,000 time series and 61 forecasting methods](https://www.sciencedirect.com/science/article/pii/S0169207019301128)
+- [ ] [Deep Learning for Time Series Forecasting: Tutorial and Literature Survey](https://arxiv.org/abs/2004.10240)
+- [ ] [FFORMA: Feature-based forecast model averaging](https://www.sciencedirect.com/science/article/abs/pii/S0169207019300895)
 
 2021
 - [ ] [Investigating the accuracy of cross-learning time series forecasting methods `M4`](https://www.sciencedirect.com/science/article/abs/pii/S0169207020301850)
@@ -202,7 +210,9 @@ Of course, there will be situations where some of the existing measures may stil
 - [ ] [M5 competition uncertainty: Overdispersion, distributional forecasting, GAMLSS, and beyond](https://www.sciencedirect.com/science/article/abs/pii/S0169207021001527)
 - [ ] [GoodsForecast second-place solution in M5 Uncertainty track: Combining heterogeneous models for a quantile estimation task](https://www.sciencedirect.com/science/article/abs/pii/S0169207022000541)
 - [ ] [Forecasting: theory and practice `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021001758)
-- [ ] [Criteria for Classifying Forecasting Methods](https://arxiv.org/abs/2212.03523)
+- [x] [Criteria for Classifying Forecasting Methods](https://arxiv.org/abs/2212.03523): The paper argues that the distinction between machine learning and statistical forecasting methods is artificial and limits our understanding of the strengths and weaknesses of different forecasting methods.
+- [ ] [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
+- [ ] [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
 
 
 ## Conferences & Journals
@@ -265,8 +275,29 @@ type of data:
 * [Corporación Favorita Grocery Sales Forecasting](https://www.kaggle.com/c/favorita-grocery-sales-forecasting) : Can you accurately predict sales for a large grocery chain?
 * [Walmart Sales Forecasting](https://www.kaggle.com/c/walmart-sales-forecasting/data)
 * [Rossmann Store Sales](https://www.kaggle.com/c/rossmann-store-sales/data): Forecast sales using store, promotion, and competitor data
-
+* [Global Energy Forecasting Competition 2012 - Load Forecasting](https://www.kaggle.com/competitions/global-energy-forecasting-competition-2012-load-forecasting/leaderboard): A hierarchical load forecasting problem: backcasting and forecasting hourly loads (in kW) for a US utility with 20 zones.
+* [Recruit Restaurant Visitor Forecasting](https://www.kaggle.com/c/recruit-restaurant-visitor-forecasting): Predict how many future visitors a restaurant will receive
 
 # Related companies
 Planning companies 
 * https://blueyonder.com
+
+
+
+
+# Categrization
+
+
+| Category   | Dimension                               |
+|------------|-----------------------------------------|
+| Objective  | Global vs. Local Methods                |
+|            | Probabilistic vs. Point Forecasts       |
+|            | Computational Complexity                |
+|            | Linearity & Convexity                   |
+| Subjective | Data-driven vs. Model-driven            |
+|            | Ensemble vs. Single Models              |
+|            | Discriminative vs. Generative           |
+|            | Statistical Guarantees                  |
+|            | Explanatory/Interpretable vs. Predictiv |
+
+
