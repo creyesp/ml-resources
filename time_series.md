@@ -304,6 +304,7 @@ Planning companies
 | Category   | Dimension                               |
 |------------|-----------------------------------------|
 | Objective  | Global vs. Local Methods                |
+|            | Univariate vs multivariate       |
 |            | Probabilistic vs. Point Forecasts       |
 |            | Computational Complexity                |
 |            | Linearity & Convexity                   |
