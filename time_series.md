@@ -232,6 +232,7 @@ Of course, there will be situations where some of the existing measures may stil
 ## Book 
 - [ ] [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 - [ ] [Open Forecasting](https://openforecast.org/)
+- [ ] [Demand Forecasting for Executives and Professionals](https://dfep.netlify.app/)
 
 
 
