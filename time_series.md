@@ -151,7 +151,7 @@ Of course, there will be situations where some of the existing measures may stil
 
 2017 
 - [ ] [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
-- [ ] [A Multi-Horizon Quantile Recurrent Forecaster](https://arxiv.org/abs/1711.11053)
+- [ ] [MQRNN: A Multi-Horizon Quantile Recurrent Forecaster `Amazone`](https://arxiv.org/abs/1711.11053)
 2018
 - [ ] [STGCN: Spatio-Temporal Graph Convolutional Networks: A Deep Learning Framework for Traffic Forecasting](https://www.ijcai.org/proceedings/2018/0505.pdf)
 - [ ] [**LSTNet**: Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks `SIGIR`](https://arxiv.org/abs/1703.07015)[code](): local multivariate patterns, modeled by a convolutional layer and long-term dependencies, captured by a recurrent network structure
@@ -164,6 +164,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [ ] [Multi-Horizon Time Series Forecasting with Temporal Attention Learning `KDD`](https://dl.acm.org/doi/10.1145/3292500.3330662)
 - [ ] [Tweedie Gradient Boosting for Extremely Unbalanced Zero-inflated Data](https://arxiv.org/abs/1811.10192)
 - [ ] [Spatial risk estimation in Tweedie compound Poisson double generalized linear models](https://arxiv.org/abs/1912.12356)
+- [ ] [**DeepTCN**: Probabilistic Forecasting with Temporal Convolutional Neural Network](https://arxiv.org/abs/1906.04397)
 
 2020
 - [ ] [Temporal fusion transformers for interpretable multi-horizon time series forecasting `Google` `IJF`](https://www.sciencedirect.com/science/article/pii/S0169207021000637): ombines recurrent layers for local processing with the transformer-typical self-attention layers that capture long-term dependencies in the data
@@ -173,7 +174,6 @@ Of course, there will be situations where some of the existing measures may stil
 - [x] [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf) - [code](https://github.com/Daniela-Shereen/GBRT-for-TSF)
 
 2022
-- [ ] [Forecasting with trees](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
 - [ ] [Benchmark time series data sets for PyTorch – the torchtime package](https://arxiv.org/abs/2207.12503)
 - [ ] [ETSformer: Exponential Smoothing Transformers for Time-series Forecasting `SaleForce`](https://arxiv.org/abs/2202.01381)
 - [ ] [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/pdf/2201.12740.pdf)
@@ -201,6 +201,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [ ] [Investigating the accuracy of cross-learning time series forecasting methods `M4`](https://www.sciencedirect.com/science/article/abs/pii/S0169207020301850)
 - [ ] [Kaggle forecasting competitions: An overlooked learning opportunity](https://www.sciencedirect.com/science/article/abs/pii/S0169207020301114)
 - [ ] [Product sales probabilistic forecasting: An empirical evaluation using the M5 competition data](https://www.sciencedirect.com/science/article/abs/pii/S0925527321002139)
+- [x] [Deep Learning for Time Series Forecasting: Tutorial and Literature Survey](https://arxiv.org/abs/2004.10240)
 
 2022
 - [x] [M5 accuracy competition: Results, findings, and conclusions `M5`](https://www.sciencedirect.com/science/article/pii/S0169207021001874)
@@ -213,6 +214,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [x] [Criteria for Classifying Forecasting Methods](https://arxiv.org/abs/2212.03523): The paper argues that the distinction between machine learning and statistical forecasting methods is artificial and limits our understanding of the strengths and weaknesses of different forecasting methods.
 - [ ] [Transformers in Time Series: A Survey](https://arxiv.org/abs/2202.07125)
 - [ ] [Are Transformers Effective for Time Series Forecasting?](https://arxiv.org/abs/2205.13504)
+- [x] [Forecasting with trees](https://www.sciencedirect.com/science/article/pii/S0169207021001679)
 
 
 ## Conferences & Journals
