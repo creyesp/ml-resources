@@ -148,6 +148,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [x] [Another look at measures of forecast accuracy](https://www.sciencedirect.com/science/article/abs/pii/S0169207006000239): The paper discusses and compares different measures of forecast accuracy, and proposes that the mean absolute scaled error (MASE) be used as the standard measure for comparing forecast accuracy across multiple time series.
 2016
 - [ ] [TRMF: Temporal regularized matrix factorization for high-dimensional time series prediction](https://dl.acm.org/doi/abs/10.5555/3157096.3157191): A novel temporal regularized matrix factorization (TRMF) framework is proposed for high-dimensional time series analysis. TRMF learns temporal dependencies among latent factors and can be used for forecasting future values.
+- [ ] [Bayesian Intermittent Demand Forecasting for Large Inventories](https://proceedings.neurips.cc/paper/2016/hash/03255088ed63354a54e0e5ed957e9008-Abstract.html)
 
 2017 
 - [ ] [DARNN: A Dual-Stage Attention-Based Recurrent Neural Network for Time Series Prediction](https://arxiv.org/abs/1704.02971): stly passes the model inputs through an input attention mechanism and subsequently employs an encoder-decoder model equipped with an additional temporal attention mechanism
@@ -172,6 +173,8 @@ Of course, there will be situations where some of the existing measures may stil
 
 2021
 - [x] [Do We Really Need Deep Learning Models for Time Series Forecasting?](https://arxiv.org/pdf/2101.02118.pdf) - [code](https://github.com/Daniela-Shereen/GBRT-for-TSF)
+- [ ] [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html)
+- [ ] [Probabilistic Forecasting: A Level-Set Approach](https://proceedings.neurips.cc/paper/2021/hash/32b127307a606effdcc8e51f60a45922-Abstract.html)
 
 2022
 - [ ] [Benchmark time series data sets for PyTorch – the torchtime package](https://arxiv.org/abs/2207.12503)
