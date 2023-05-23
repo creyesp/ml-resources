@@ -180,6 +180,7 @@ Of course, there will be situations where some of the existing measures may stil
 - [ ] [Benchmark time series data sets for PyTorch – the torchtime package](https://arxiv.org/abs/2207.12503)
 - [ ] [ETSformer: Exponential Smoothing Transformers for Time-series Forecasting `SaleForce`](https://arxiv.org/abs/2202.01381)
 - [ ] [FEDformer: Frequency Enhanced Decomposed Transformer for Long-term Series Forecasting](https://arxiv.org/pdf/2201.12740.pdf)
+- [x] [FreDo: Frequency Domain-based Long-Term Time Series Forecasting](https://arxiv.org/abs/2205.12301): proposes a novel frequency domain-based neural network model that outperforms the state-of-the-art model for long-term time series forecasting.
 
 2023
 - [ ] [Long-term Forecasting with TiDE: Time-series Dense Encoder](https://arxiv.org/abs/2304.08424) - [Google Blogs - Recent advances in deep long-horizon forecasting](https://ai.googleblog.com/2023/04/recent-advances-in-deep-long-horizon.html)
