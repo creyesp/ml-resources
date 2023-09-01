@@ -136,6 +136,7 @@ Blogs
 - A Guide to the Encoder-Decoder Model and the Attention Mechanism - https://betterprogramming.pub/a-guide-on-the-encoder-decoder-model-and-the-attention-mechanism-401c836e2cdb
 - **Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)** - https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
 - Attn: Illustrated Attention - https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
+- [Attention? Attention!](https://lilianweng.github.io/posts/2018-06-24-attention/)
 - Papers:
   - Neural machine translation by jointly learning to align and translate - https://arxiv.org/pdf/1508.04025.pdf
   - Effective Approaches to Attention-based Neural Machine Translation - https://arxiv.org/pdf/1409.0473.pdf
@@ -150,6 +151,7 @@ ELECTRA (GAN)
 [MobileBert](https://arxiv.org/pdf/2004.02984.pdf)
 Logformer (hybrid local en global attention)
 
+- [The Transformer Family](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 - Curated list of transformer (Dair)- https://github.com/dair-ai/Transformers-Recipe
 - **Illustrated transformer**- https://jalammar.github.io/illustrated-transformer/
 - Transformers Explained Visually 
